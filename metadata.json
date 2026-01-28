@@ -1,0 +1,7 @@
+{
+  "name": "FeriApp (Beta Griega)",
+  "description": "Aplicación para puestos de ferias vecinales que facilita la visualización de precios, gestión de pedidos y comunicación fluida entre feriantes y vecinos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
